@@ -13,7 +13,7 @@ authors:
 repository-code: 'https://github.com/Karlagrm/Practica3MSF'
 keywords:
   - >-
-    Palabras Clave: Sistema muscuesquelético; Controlador; Caso; Control; Tratamiento
+    Palabras Clave: Sistema muscuesquelético; Controlador; Caso; Control; Tratamiento; Modelo matemático; Simulaciones numéricas; Función de transferencia
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-29'
+date-released: '2025-10-30'
